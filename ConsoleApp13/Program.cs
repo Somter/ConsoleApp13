@@ -30,7 +30,7 @@ class Program
         {
             Console.WriteLine("Корректно");
         }
-        else
+        else 
         {
             Console.WriteLine("Некорректно.");
         }
